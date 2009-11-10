@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/111/trunk/couchdb
+END
+view.py
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/111/trunk/couchdb/view.py
+END
+client.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/110/trunk/couchdb/client.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/43/trunk/couchdb/__init__.py
+END
+schema.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/96/trunk/couchdb/schema.py
+END

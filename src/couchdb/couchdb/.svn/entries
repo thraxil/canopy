@@ -1,0 +1,86 @@
+8
+
+dir
+111
+http://couchdb-python.googlecode.com/svn/trunk/couchdb
+http://couchdb-python.googlecode.com/svn
+
+
+
+2008-09-16T10:45:41.926882Z
+111
+cmlenz
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+7a298fb0-333a-0410-83e7-658617cd9cf3
+
+tools
+dir
+
+view.py
+file
+
+
+
+
+2008-09-23T18:39:43.000000Z
+0f10e94a156c065fe76b39e8f38af971
+2008-09-16T10:45:41.926882Z
+111
+cmlenz
+has-props
+
+tests
+dir
+
+client.py
+file
+
+
+
+
+2008-09-23T18:39:43.000000Z
+3ca86b81b75c6bc70271e8d2bf5ecb04
+2008-09-16T09:42:23.093491Z
+110
+cmlenz
+has-props
+
+__init__.py
+file
+
+
+
+
+2008-09-23T18:39:43.000000Z
+2fcaa1ea302c1aad5c92e45b0de9c059
+2007-10-23T11:23:43.991513Z
+43
+cmlenz
+has-props
+
+schema.py
+file
+
+
+
+
+2008-09-23T18:39:43.000000Z
+8bb10897db2edf923fd75e15f831fe2c
+2008-09-08T15:28:17.625892Z
+96
+cmlenz
+has-props
+

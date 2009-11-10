@@ -1,0 +1,47 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h3>{{ dir.name }}</h3>
+<p><a href="{{ dir.tahoe_url }}">direct link</a></p>
+
+<form action=";mkdir/" method="post">
+<fieldset><legend>add subdirectory</legend>
+name: <input type="text" name="name" value="" /><input type="submit" value="create"/>
+</fieldset>
+</form>
+
+<form action=";upload/" method="post" enctype="multipart/form-data">
+<fieldset><legend>upload file</legend>
+file: <input type="file" name="file" /><input type="submit" value="upload"/>
+</fieldset>
+</form>
+
+
+
+{% if dir.has_children %}
+<h4>subdirs</h4>
+<table>
+{% for subdir in dir.children %}
+<tr class="{% cycle "odd" "even" %}">
+<td><a href="{{ subdir.get_absolute_url }}">{{ subdir.name }}</a></td>
+</tr>
+{% endfor %}
+</table>
+{% endif %}
+
+
+{% if dir.has_files %}
+<h4>files</h4>
+<table>
+{% for file in dir.tahoefile_set.all %}
+<tr class="{% cycle "odd" "even" %}">
+<td><a href="{{ file.get_absolute_url }}">{{ file.filename }}</a></td>
+</tr>
+{% endfor %}
+</table>
+{% endif %}
+
+
+
+
+{% endblock %}

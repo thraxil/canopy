@@ -1,0 +1,52 @@
+8
+
+dir
+111
+http://couchdb-python.googlecode.com/svn/trunk/doc/conf
+http://couchdb-python.googlecode.com/svn
+
+
+
+2007-09-17T17:40:48.032597Z
+8
+cmlenz
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+7a298fb0-333a-0410-83e7-658617cd9cf3
+
+epydoc.ini
+file
+
+
+
+
+2008-09-23T18:39:42.000000Z
+e95e2d29682240589ab8d41af027dee9
+2007-09-17T17:40:48.032597Z
+8
+cmlenz
+
+docutils.ini
+file
+
+
+
+
+2008-09-23T18:39:42.000000Z
+fa997e7a01c68b47a39d7af689c616db
+2007-09-17T17:40:48.032597Z
+8
+cmlenz
+

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/111/trunk/couchdb/tests
+END
+view.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/111/trunk/couchdb/tests/view.py
+END
+client.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/110/trunk/couchdb/tests/client.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/17/trunk/couchdb/tests/__init__.py
+END
+schema.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/96/trunk/couchdb/tests/schema.py
+END
+couch_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/68/trunk/couchdb/tests/couch_tests.py
+END

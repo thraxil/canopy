@@ -1,0 +1,44 @@
+8
+
+dir
+111
+http://couchdb-python.googlecode.com/svn/trunk/doc
+http://couchdb-python.googlecode.com/svn
+
+
+
+2008-02-06T20:42:12.669836Z
+61
+cmlenz
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+7a298fb0-333a-0410-83e7-658617cd9cf3
+
+conf
+dir
+
+index.txt
+file
+
+
+
+
+2008-09-23T18:39:42.000000Z
+0986fbe28d2e668cf534aeff71839e8e
+2008-02-06T20:42:12.669836Z
+61
+cmlenz
+has-props
+

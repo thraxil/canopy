@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/108/trunk/couchdb/tools
+END
+replication_helper.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/107/trunk/couchdb/tools/replication_helper.py
+END
+load.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/93/trunk/couchdb/tools/load.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/89/trunk/couchdb/tools/__init__.py
+END
+dump.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/93/trunk/couchdb/tools/dump.py
+END
+replication_helper_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/107/trunk/couchdb/tools/replication_helper_test.py
+END
